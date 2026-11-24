@@ -1,0 +1,38 @@
+{
+  "aliases": {
+    "js": "JavaScript",
+    "javascript": "JavaScript",
+    "ts": "TypeScript",
+    "typescript": "TypeScript",
+    "react.js": "React",
+    "reactjs": "React",
+    "node": "Node.js",
+    "node.js": "Node.js",
+    "nodejs": "Node.js",
+    "k8s": "Kubernetes",
+    "sklearn": "Scikit-Learn",
+    "scikit-learn": "Scikit-Learn",
+    "postgres": "PostgreSQL",
+    "postgresql": "PostgreSQL",
+    "aws": "AWS",
+    "amazon web services": "AWS",
+    "azure": "Azure",
+    "gcp": "Google Cloud",
+    "google cloud": "Google Cloud",
+    "panda": "Pandas",
+    "pandas": "Pandas",
+    "numpy": "NumPy",
+    "ci/cd": "CI/CD",
+    "rest": "REST API",
+    "graph-ql": "GraphQL",
+    "graphql": "GraphQL",
+    "power bi": "Power BI",
+    ".net": ".NET"
+  },
+  "categories": {
+    "Frontend": ["React", "Angular", "TypeScript", "JavaScript", "HTML", "CSS"],
+    "Backend & APIs": ["Python", "Node.js", "Java", ".NET", "FastAPI", "Django", "Flask", "Spring", "REST API", "GraphQL", "PostgreSQL"],
+    "Data & AI/ML": ["Pandas", "NumPy", "Scikit-Learn", "PyTorch", "TensorFlow", "Power BI", "Azure OpenAI", "LLMs"],
+    "Cloud & DevOps": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "CI/CD", "Bash", "PowerShell"]
+  }
+}

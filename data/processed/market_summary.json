@@ -1,0 +1,223 @@
+{
+  "total_jobs": 45,
+  "total_skills": 32,
+  "best_k": 4,
+  "silhouette_scores": {
+    "2": 0.2022,
+    "3": 0.2119,
+    "4": 0.2182,
+    "5": 0.217
+  },
+  "top_skills": [
+    {
+      "skill": "AWS",
+      "job_count": 27,
+      "demand_share_pct": 60.0,
+      "avg_years_exp": 7.3,
+      "avg_salary_usd": 178928
+    },
+    {
+      "skill": "Java",
+      "job_count": 21,
+      "demand_share_pct": 46.7,
+      "avg_years_exp": 7.6,
+      "avg_salary_usd": 169237
+    },
+    {
+      "skill": "JavaScript",
+      "job_count": 21,
+      "demand_share_pct": 46.7,
+      "avg_years_exp": 6.5,
+      "avg_salary_usd": 162000
+    },
+    {
+      "skill": "Python",
+      "job_count": 18,
+      "demand_share_pct": 40.0,
+      "avg_years_exp": 6.4,
+      "avg_salary_usd": 171695
+    },
+    {
+      "skill": "React",
+      "job_count": 15,
+      "demand_share_pct": 33.3,
+      "avg_years_exp": 4.8,
+      "avg_salary_usd": 162000
+    },
+    {
+      "skill": "Spring",
+      "job_count": 15,
+      "demand_share_pct": 33.3,
+      "avg_years_exp": 8.5,
+      "avg_salary_usd": 162000
+    },
+    {
+      "skill": "REST API",
+      "job_count": 13,
+      "demand_share_pct": 28.9,
+      "avg_years_exp": 8.6,
+      "avg_salary_usd": 162000
+    },
+    {
+      "skill": "Azure",
+      "job_count": 11,
+      "demand_share_pct": 24.4,
+      "avg_years_exp": 5.9,
+      "avg_salary_usd": 191606
+    },
+    {
+      "skill": "CI/CD",
+      "job_count": 9,
+      "demand_share_pct": 20.0,
+      "avg_years_exp": 4.9,
+      "avg_salary_usd": 162000
+    },
+    {
+      "skill": "Docker",
+      "job_count": 9,
+      "demand_share_pct": 20.0,
+      "avg_years_exp": 8.9,
+      "avg_salary_usd": 163000
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": 3,
+      "job_count": 22,
+      "top_skills": [
+        {
+          "skill": "AWS",
+          "weight": 0.73
+        },
+        {
+          "skill": "Python",
+          "weight": 0.5
+        },
+        {
+          "skill": "Azure",
+          "weight": 0.27
+        },
+        {
+          "skill": "Java",
+          "weight": 0.23
+        },
+        {
+          "skill": "Google Cloud",
+          "weight": 0.14
+        },
+        {
+          "skill": "React",
+          "weight": 0.09
+        }
+      ],
+      "sample_titles": [
+        "Python Developer II (11412)",
+        "Software Developer (Full Stack - Python, React)",
+        "Senior Python Developer"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "job_count": 15,
+      "top_skills": [
+        {
+          "skill": "Spring",
+          "weight": 1.0
+        },
+        {
+          "skill": "Java",
+          "weight": 1.0
+        },
+        {
+          "skill": "JavaScript",
+          "weight": 0.8
+        },
+        {
+          "skill": "REST API",
+          "weight": 0.73
+        },
+        {
+          "skill": "AWS",
+          "weight": 0.6
+        },
+        {
+          "skill": "Angular",
+          "weight": 0.47
+        }
+      ],
+      "sample_titles": [
+        "AWS Java Full Stack Developer",
+        "Python Senior Software Engineer",
+        "Python/R Programmer - Entry"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "job_count": 7,
+      "top_skills": [
+        {
+          "skill": "React",
+          "weight": 1.0
+        },
+        {
+          "skill": "JavaScript",
+          "weight": 1.0
+        },
+        {
+          "skill": "TypeScript",
+          "weight": 0.86
+        },
+        {
+          "skill": "Node.js",
+          "weight": 0.43
+        },
+        {
+          "skill": "CI/CD",
+          "weight": 0.29
+        },
+        {
+          "skill": "AWS",
+          "weight": 0.29
+        }
+      ],
+      "sample_titles": [
+        "Application Developer (React & SQL)",
+        "React Developer",
+        "Senior Full Stack React Developer (On-Site)"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "job_count": 1,
+      "top_skills": [
+        {
+          "skill": "Python",
+          "weight": 1.0
+        },
+        {
+          "skill": "PowerShell",
+          "weight": 1.0
+        },
+        {
+          "skill": "Pandas",
+          "weight": 1.0
+        },
+        {
+          "skill": "Power BI",
+          "weight": 1.0
+        },
+        {
+          "skill": "NumPy",
+          "weight": 1.0
+        },
+        {
+          "skill": "FastAPI",
+          "weight": 1.0
+        }
+      ],
+      "sample_titles": [
+        "W2 Role: Python Lead Developer with AI/ML"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "total_jobs": 45,
+  "total_skills": 32,
+  "num_clusters": 4,
+  "cluster_distribution": {
+    "cluster_3": 22,
+    "cluster_1": 15,
+    "cluster_2": 7,
+    "cluster_0": 1
+  },
+  "sample_pmi_top_3": {
+    "Python": [
+      [
+        "Azure OpenAI",
+        1.322
+      ],
+      [
+        "Bash",
+        1.322
+      ],
+      [
+        "Django",
+        1.322
+      ]
+    ],
+    "React, TypeScript": [
+      [
+        "LLMs",
+        2.135
+      ],
+      [
+        "Node.js",
+        1.842
+      ],
+      [
+        "CSS",
+        1.503
+      ]
+    ],
+    "Java, Spring": [
+      [
+        "GraphQL",
+        1.342
+      ],
+      [
+        "Angular",
+        1.246
+      ],
+      [
+        "HTML",
+        1.12
+      ]
+    ]
+  }
+}
